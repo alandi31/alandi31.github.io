@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://github.com/alandi31/alandi31.github.io/sitemap.xml
