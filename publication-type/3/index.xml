@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | </title>
+    <link>https://github.com/alandi31/alandi31.github.io/publication-type/3/</link>
+      <atom:link href="https://github.com/alandi31/alandi31.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://github.com/alandi31/alandi31.github.io/media/me.jpg</url>
+      <title>3</title>
+      <link>https://github.com/alandi31/alandi31.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Identifying if input differences are developmentally meaningful:A look at complex syntactic input across socio-economic status</title>
+      <link>https://github.com/alandi31/alandi31.github.io/publication/bates-2020-socioeconomic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://github.com/alandi31/alandi31.github.io/publication/bates-2020-socioeconomic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
