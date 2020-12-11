@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | </title>
-    <link>https://github.com/alandi31/alandi31.github.io/publication_types/</link>
-      <atom:link href="https://github.com/alandi31/alandi31.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alandi31.github.io/publication_types/</link>
+      <atom:link href="https://alandi31.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/alandi31/alandi31.github.io/media/me.jpg</url>
+      <url>https://alandi31.github.io/media/me.jpg</url>
       <title>Publication_types</title>
-      <link>https://github.com/alandi31/alandi31.github.io/publication_types/</link>
+      <link>https://alandi31.github.io/publication_types/</link>
     </image>
     
   </channel>

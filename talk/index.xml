@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | </title>
-    <link>https://github.com/alandi31/alandi31.github.io/talk/</link>
-      <atom:link href="https://github.com/alandi31/alandi31.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alandi31.github.io/talk/</link>
+      <atom:link href="https://alandi31.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://github.com/alandi31/alandi31.github.io/media/me.jpg</url>
+      <url>https://alandi31.github.io/media/me.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://github.com/alandi31/alandi31.github.io/talk/</link>
+      <link>https://alandi31.github.io/talk/</link>
     </image>
     
   </channel>

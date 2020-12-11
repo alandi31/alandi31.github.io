@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | </title>
-    <link>https://github.com/alandi31/alandi31.github.io/tags/</link>
-      <atom:link href="https://github.com/alandi31/alandi31.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alandi31.github.io/tags/</link>
+      <atom:link href="https://alandi31.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://github.com/alandi31/alandi31.github.io/media/me.jpg</url>
+      <url>https://alandi31.github.io/media/me.jpg</url>
       <title>Tags</title>
-      <link>https://github.com/alandi31/alandi31.github.io/tags/</link>
+      <link>https://alandi31.github.io/tags/</link>
     </image>
     
   </channel>
